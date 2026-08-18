@@ -1,1 +1,0 @@
-(function(){var b=document.querySelector(".nav-toggle"),n=document.querySelector("nav");if(!b||!n)return;b.onclick=function(){var o=n.classList.toggle("open");b.setAttribute("aria-expanded",o?"true":"false")}})();
